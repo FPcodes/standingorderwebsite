@@ -1,0 +1,9 @@
+#ASP.NET Core Misc File
+.standingordernextasp.sln
+
+# Ignore everything in the standingorderapi directory
+backend/standingorderapi/*
+
+# Do not ignore these specific items
+!backend/standingorderapi/Data/
+!backend/standingorderapi/Program.cs
