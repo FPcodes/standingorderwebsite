@@ -1,0 +1,10 @@
+.headernav {
+    display: flex;
+    justify-content: space-between;
+    height: 85px;
+}
+
+.headerul {
+    display: flex;
+    gap: 20px;
+}

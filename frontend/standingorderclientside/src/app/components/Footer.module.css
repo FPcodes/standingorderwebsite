@@ -1,0 +1,27 @@
+.footermain { 
+    background-color: #F6F3EC;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.footerul {
+    text-align: center;
+    padding-left: 0;
+    margin: 0
+}
+
+#signUpUl {
+    margin-top: 22px;
+}
+    
+.sociallogos {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+#hrMain {
+    margin: 0;
+    padding: 0;
+}
