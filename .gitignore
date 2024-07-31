@@ -7,3 +7,8 @@ backend/standingorderapi/*
 # Do not ignore these specific items
 !backend/standingorderapi/Data/
 !backend/standingorderapi/Program.cs
+
+# Explicitly ignore sensitive ASP.NET Core files
+backend/standingorderapi/appsettings.json
+backend/standingorderapi/appsettings.Development.json
+backend/standingorderapi/standingorderapi.csproj
